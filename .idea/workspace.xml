@@ -4,7 +4,6 @@
     <list default="true" id="3e252626-8e8e-4899-900a-dcf5d35b55ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/angular2/shared/services/core/base.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/lib/angular2/shared/services/core/base.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/angular2/shared/services/core/error.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/lib/angular2/shared/services/core/error.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +32,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -47,11 +46,12 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -86,6 +86,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -116,7 +117,17 @@
       <workItem from="1604242965987" duration="631000" />
       <workItem from="1604295779090" duration="5602000" />
       <workItem from="1604741409998" duration="1307000" />
-      <workItem from="1605264073479" duration="1379000" />
+      <workItem from="1605264073479" duration="1467000" />
+      <workItem from="1605600131493" duration="2647000" />
+      <workItem from="1605701845055" duration="599000" />
+      <workItem from="1605711004412" duration="1174000" />
+      <workItem from="1605714078550" duration="599000" />
+      <workItem from="1605995268342" duration="208000" />
+      <workItem from="1605995604705" duration="405000" />
+      <workItem from="1605996019273" duration="118000" />
+      <workItem from="1606015856052" duration="1251000" />
+      <workItem from="1606052893574" duration="1508000" />
+      <workItem from="1606099836568" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="@aswan 1st commit many changes">
       <created>1583265956511</created>
@@ -151,11 +162,17 @@
       <option name="presentableId" value="LOCAL؜٠٠٠٠٥" />
       <updated>1603872223219</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL؜٠٠٠٠٦" summary="findByIdWithStream&#10;error Handler Subject">
+      <created>1605326824462</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٦" />
+      <updated>1605326824462</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -172,13 +189,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -187,7 +203,8 @@
     <MESSAGE value="@aswan findWithChangeStream findWithSocket" />
     <MESSAGE value="@aswan findWithStream improve with Map" />
     <MESSAGE value="@aswan findWithStream improve" />
-    <option name="LAST_COMMIT_MESSAGE" value="@aswan findWithStream improve" />
+    <MESSAGE value="findByIdWithStream&#10;error Handler Subject" />
+    <option name="LAST_COMMIT_MESSAGE" value="findByIdWithStream&#10;error Handler Subject" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1603191620360">
@@ -202,30 +219,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="202" key="#generate_SDK/0.0.1920.1040@0.0.1920.1040" timestamp="1603872067289" />
-    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2" timestamp="1603872222747">
+    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2" timestamp="1605326824061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603872222747" />
-    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1604346100648">
+    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605326824061" />
+    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1606054591115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604346100648" />
-    <state width="1921" height="312" key="GridCell.Tab.0.bottom" timestamp="1605270641667">
+    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606054591115" />
+    <state width="1921" height="326" key="GridCell.Tab.0.bottom" timestamp="1606024419689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605270641667" />
-    <state width="1921" height="312" key="GridCell.Tab.0.center" timestamp="1605270641667">
+    <state width="1921" height="326" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606024419689" />
+    <state width="1921" height="326" key="GridCell.Tab.0.center" timestamp="1606024419689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="312" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605270641667" />
-    <state width="1921" height="312" key="GridCell.Tab.0.left" timestamp="1605270641667">
+    <state width="1921" height="326" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606024419689" />
+    <state width="1921" height="326" key="GridCell.Tab.0.left" timestamp="1606024419689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="312" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605270641667" />
-    <state width="1921" height="312" key="GridCell.Tab.0.right" timestamp="1605270641667">
+    <state width="1921" height="326" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606024419689" />
+    <state width="1921" height="326" key="GridCell.Tab.0.right" timestamp="1606024419689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="312" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605270641667" />
+    <state width="1921" height="326" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606024419689" />
     <state width="1921" height="346" key="GridCell.Tab.1.bottom" timestamp="1603975065350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -274,10 +291,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1921" height="346" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603975065351" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1603872228373">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605326828095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603872228373" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605326828095" />
     <state x="853" y="239" width="627" height="568" key="find.popup" timestamp="1604390225130">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
