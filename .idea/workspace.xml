@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3e252626-8e8e-4899-900a-dcf5d35b55ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/angular2/shared/services/core/base.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/lib/angular2/shared/services/core/base.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +126,9 @@
       <workItem from="1605996019273" duration="118000" />
       <workItem from="1606015856052" duration="1251000" />
       <workItem from="1606052893574" duration="1508000" />
-      <workItem from="1606099836568" duration="599000" />
+      <workItem from="1606099836568" duration="1229000" />
+      <workItem from="1606176982116" duration="599000" />
+      <workItem from="1606254560803" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="@aswan 1st commit many changes">
       <created>1583265956511</created>
@@ -168,7 +169,14 @@
       <option name="presentableId" value="LOCAL؜٠٠٠٠٦" />
       <updated>1605326824462</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="findById">
+      <created>1606102489738</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606102489738</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +212,8 @@
     <MESSAGE value="@aswan findWithStream improve with Map" />
     <MESSAGE value="@aswan findWithStream improve" />
     <MESSAGE value="findByIdWithStream&#10;error Handler Subject" />
-    <option name="LAST_COMMIT_MESSAGE" value="findByIdWithStream&#10;error Handler Subject" />
+    <MESSAGE value="findById" />
+    <option name="LAST_COMMIT_MESSAGE" value="findById" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1603191620360">
@@ -219,10 +228,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="202" key="#generate_SDK/0.0.1920.1040@0.0.1920.1040" timestamp="1603872067289" />
-    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2" timestamp="1605326824061">
+    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2" timestamp="1606102489349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605326824061" />
+    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606102489349" />
     <state x="184" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1606054591115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -291,10 +300,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1921" height="346" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603975065351" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605326828095">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1606102491822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605326828095" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606102491822" />
     <state x="853" y="239" width="627" height="568" key="find.popup" timestamp="1604390225130">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
