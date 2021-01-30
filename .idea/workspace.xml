@@ -13,18 +13,13 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Github" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e252626-8e8e-4899-900a-dcf5d35b55ad" name="Default Changelist" comment="remove findEntitiesWithSocket function">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/angular2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/angular2/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/angular2/shared/services/core/base.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/lib/angular2/shared/services/core/base.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/angular2/shared/services/custom/service.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/lib/angular2/shared/services/custom/service.ejs" afterDir="false" />
-    </list>
+    <list default="true" id="3e252626-8e8e-4899-900a-dcf5d35b55ad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +145,7 @@
       <workItem from="1606099836568" duration="1229000" />
       <workItem from="1606176982116" duration="599000" />
       <workItem from="1606254560803" duration="717000" />
-      <workItem from="1608250156228" duration="1257000" />
+      <workItem from="1608250156228" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="@aswan 1st commit many changes">
       <created>1583265956511</created>
@@ -212,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608250242526</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="remove Store integration">
+      <created>1608252136056</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608252136056</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +252,8 @@
     <MESSAGE value="findByIdWithStream&#10;error Handler Subject" />
     <MESSAGE value="findById" />
     <MESSAGE value="remove findEntitiesWithSocket function" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove findEntitiesWithSocket function" />
+    <MESSAGE value="remove Store integration" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove Store integration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1603191620360">
@@ -265,14 +268,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="202" key="#generate_SDK/0.0.1920.1040@0.0.1920.1040" timestamp="1603872067289" />
-    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2" timestamp="1608250712824">
+    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2" timestamp="1608252135687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608250712824" />
-    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1608250814810">
+    <state x="452" y="25" width="1290" height="989" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608252135687" />
+    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1608252106353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608250814810" />
+    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608252106353" />
     <state width="1921" height="326" key="GridCell.Tab.0.bottom" timestamp="1606262060934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -337,21 +340,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1921" height="346" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603975065351" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1608250246196">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1608252170233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608250246196" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608252170233" />
     <state x="853" y="239" width="627" height="568" key="find.popup" timestamp="1608250806620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="853" y="239" width="627" height="568" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608250806620" />
+    <state x="724" y="416" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608252167265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="416" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608252167265" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1602209807364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602209807364" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606261961592">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608252092956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606261961592" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608252092956" />
   </component>
 </project>
